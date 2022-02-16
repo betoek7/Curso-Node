@@ -1,0 +1,17 @@
+{
+  "name": "holanode",
+  "version": "1.0.0",
+  "description": "Capacitacion node express",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "nodemon src/index.js"
+  },
+  "author": "beto",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2",
+    "nodemon": "^2.0.15",
+    "phone": "^3.1.12"
+  }
+}
